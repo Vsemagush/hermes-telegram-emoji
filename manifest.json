@@ -1,124 +1,99 @@
 {
   "schema_version": 1,
   "item_count": 13,
-  "telegram_pack_published": false,
+  "telegram_pack_published": true,
+  "telegram_pack_url": "https://t.me/addemoji/HermesCommunityIcons",
   "items": [
     {
       "id": 1,
       "slug": "nous-girl-black",
       "proposed_emoji": "👩",
-      "export": "exports/telegram/01-nous-girl-black.png",
-      "export_sha256": "d61f4263987cf833955b6c92fed5b0952062491a4528de243ef7e9af41c8ea8c",
-      "master": "masters/01-nous-girl-black.png",
-      "master_sha256": "aaa58e1880a9e4804e6c64e00557ea58ae728b3c202ce8d0df30437e6f36a58e"
+      "export": "icons/01-nous-girl-black.png",
+      "export_sha256": "d61f4263987cf833955b6c92fed5b0952062491a4528de243ef7e9af41c8ea8c"
     },
     {
       "id": 2,
       "slug": "nous-girl-white",
       "proposed_emoji": "👩",
-      "export": "exports/telegram/02-nous-girl-white.png",
-      "export_sha256": "2516fc34bc2830ceb5ceed484b92a562b3329d15196e71a07e1556f85a3ec2c0",
-      "master": "masters/02-nous-girl-white.png",
-      "master_sha256": "c2d150edf6eb7c28c1233c930a140c2b251b031dfcae325ce7a9d1876fd5e788"
+      "export": "icons/02-nous-girl-white.png",
+      "export_sha256": "2516fc34bc2830ceb5ceed484b92a562b3329d15196e71a07e1556f85a3ec2c0"
     },
     {
       "id": 3,
       "slug": "nous-girl-close",
       "proposed_emoji": "🎧",
-      "export": "exports/telegram/03-nous-girl-close.png",
-      "export_sha256": "5100af177efdcd4c3dc1cb334dd816cbe4316b8c86b2355f06655449cbe01dd3",
-      "master": "masters/03-nous-girl-close.png",
-      "master_sha256": "f5caafc7958b2c11bc592cbb569fc7151f460ea1ba0084e5dcdb46e5aebe6de9"
+      "export": "icons/03-nous-girl-close.png",
+      "export_sha256": "5100af177efdcd4c3dc1cb334dd816cbe4316b8c86b2355f06655449cbe01dd3"
     },
     {
       "id": 4,
       "slug": "nous-girl-blue",
       "proposed_emoji": "🎧",
-      "export": "exports/telegram/04-nous-girl-blue.png",
-      "export_sha256": "ab867450ba40adacd9daacc662956148d1e75f9ec3a17d769c3546b4af915d9b",
-      "master": "masters/04-nous-girl-blue.png",
-      "master_sha256": "66eb1aa256112771178117c84d579c3791051426b101b66620e0ed812cb53b30"
+      "export": "icons/04-nous-girl-blue.png",
+      "export_sha256": "ab867450ba40adacd9daacc662956148d1e75f9ec3a17d769c3546b4af915d9b"
     },
     {
       "id": 5,
       "slug": "wings-blue",
       "proposed_emoji": "🪽",
-      "export": "exports/telegram/05-wings-blue.png",
-      "export_sha256": "a4aa1a1ff3fbe9389fd623ebc87a0391e34a5f162ab2328cec60eaa0efb6530b",
-      "master": "masters/05-wings-blue.png",
-      "master_sha256": "db76927980bdb80833e0e97bd9f9e350435a2cba44a16edf9a8468dae3d90c37"
+      "export": "icons/05-wings-blue.png",
+      "export_sha256": "a4aa1a1ff3fbe9389fd623ebc87a0391e34a5f162ab2328cec60eaa0efb6530b"
     },
     {
       "id": 6,
       "slug": "wings-black",
       "proposed_emoji": "🪽",
-      "export": "exports/telegram/06-wings-black.png",
-      "export_sha256": "47b27ca70a6680227f7a7955b5167f2e2a6ad203d9c81cd35e0caf7ac1f2698a",
-      "master": "masters/06-wings-black.png",
-      "master_sha256": "d3aa5a10760417d875d5b7df6c4e124163ce7173a4e48664034c666c33a217e7"
+      "export": "icons/06-wings-black.png",
+      "export_sha256": "47b27ca70a6680227f7a7955b5167f2e2a6ad203d9c81cd35e0caf7ac1f2698a"
     },
     {
       "id": 7,
       "slug": "caduceus-black",
       "proposed_emoji": "⚕️",
-      "export": "exports/telegram/07-caduceus-black.png",
-      "export_sha256": "f9772fa25bd444cfca009205fa4e021ca390cc0db0f6c7e6f8ba7277b533695a",
-      "master": "masters/07-caduceus-black.png",
-      "master_sha256": "a49ea111ece8b2c0803737c0e058f30307dfa25a2b6a422989499413fbc653f0"
+      "export": "icons/07-caduceus-black.png",
+      "export_sha256": "f9772fa25bd444cfca009205fa4e021ca390cc0db0f6c7e6f8ba7277b533695a"
     },
     {
       "id": 8,
       "slug": "caduceus-white",
       "proposed_emoji": "⚕️",
-      "export": "exports/telegram/08-caduceus-white.png",
-      "export_sha256": "6453cafebe3101d584ded313de54ae2131d601538e985dfbfc1817df2781b0e1",
-      "master": "masters/08-caduceus-white.png",
-      "master_sha256": "3d044cc638fe0ae4d6b557232716f1d70ed25fc2b450ef431610a778b1e6c0b7"
+      "export": "icons/08-caduceus-white.png",
+      "export_sha256": "6453cafebe3101d584ded313de54ae2131d601538e985dfbfc1817df2781b0e1"
     },
     {
       "id": 9,
       "slug": "caduceus-blue",
       "proposed_emoji": "⚕️",
-      "export": "exports/telegram/09-caduceus-blue.png",
-      "export_sha256": "73e15013fb42e57af38c8428040c751849b6becd486773446b42ba8099dd2526",
-      "master": "masters/09-caduceus-blue.png",
-      "master_sha256": "d0117cbb59eef4dbdf5ece52a30ba676e37a726563abcbe7138dd4f35967e5ad"
+      "export": "icons/09-caduceus-blue.png",
+      "export_sha256": "73e15013fb42e57af38c8428040c751849b6becd486773446b42ba8099dd2526"
     },
     {
       "id": 10,
       "slug": "hermes-head-blue",
       "proposed_emoji": "🪽",
-      "export": "exports/telegram/10-hermes-head-blue.png",
-      "export_sha256": "953b1426ec4dc65ea874263199aea9b84a397791d7835fb48edff39087b21676",
-      "master": "masters/10-hermes-head-blue.png",
-      "master_sha256": "0037528917d389ff17bd6fb124902992bc290a87a6693f05dfec9d61b9ad959e"
+      "export": "icons/10-hermes-head-blue.png",
+      "export_sha256": "953b1426ec4dc65ea874263199aea9b84a397791d7835fb48edff39087b21676"
     },
     {
       "id": 11,
       "slug": "hermes-head-black",
       "proposed_emoji": "🪽",
-      "export": "exports/telegram/11-hermes-head-black.png",
-      "export_sha256": "ca1684e48a2fc2db5f3bcaf3517cc41d6662ce10db6710e901a6679d8efc6e5d",
-      "master": "masters/11-hermes-head-black.png",
-      "master_sha256": "f0922ffce56f9b4f02823f93f1416b477d67db7072c065fb57cab8505c84df84"
+      "export": "icons/11-hermes-head-black.png",
+      "export_sha256": "ca1684e48a2fc2db5f3bcaf3517cc41d6662ce10db6710e901a6679d8efc6e5d"
     },
     {
       "id": 13,
       "slug": "medallion-gold",
       "proposed_emoji": "🏅",
-      "export": "exports/telegram/13-medallion-gold.png",
-      "export_sha256": "dbcb8b31db27c28bb4c2f040ae4045b60e162721614d8a9d0500e0114d76a3a6",
-      "master": "masters/13-medallion-gold.png",
-      "master_sha256": "5fb5d138d2923852c358392052848b4f55a4372598bc1d9455ea6a8aac7fd447"
+      "export": "icons/13-medallion-gold.png",
+      "export_sha256": "dbcb8b31db27c28bb4c2f040ae4045b60e162721614d8a9d0500e0114d76a3a6"
     },
     {
       "id": 15,
       "slug": "medallion-white",
       "proposed_emoji": "🏅",
-      "export": "exports/telegram/15-medallion-white.png",
-      "export_sha256": "850e0ffb67b608b965933a4ecb82ca812f29b6f9e31fed47b688e740b5d4a405",
-      "master": "masters/15-medallion-white.png",
-      "master_sha256": "168f91690f0d2575c12ce2e48ab7a93ec4e3c7de77bc50bdba6367aff9577127"
+      "export": "icons/15-medallion-white.png",
+      "export_sha256": "850e0ffb67b608b965933a4ecb82ca812f29b6f9e31fed47b688e740b5d4a405"
     }
   ]
 }
