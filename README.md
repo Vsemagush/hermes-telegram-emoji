@@ -21,7 +21,7 @@ The set is published as **Hermes [Community Icons]**. Open the link above to add
 ## Create your own set from the PNGs
 
 1. Download and extract the ZIP, then open the official [@Stickers Mini App](https://t.me/stickers?startapp) in Telegram.
-2. Start creating a new **custom emoji** set and select the static image format. Choose emoji, not a regular sticker pack: these exports are 100 × 100 pixels, not 512-pixel stickers.
+2. Start creating a new **custom emoji** set and select the static image format. Choose emoji, not a regular sticker pack: these icons are 100 × 100 pixels, not 512-pixel stickers.
 3. Upload the PNG files as files/originals without resizing or conversion. Follow the Mini App's prompts for the set name and emoji associations; use `proposed_emoji` in the manifest as a starting point, not as a required mapping.
 4. Preview a trial image on light and dark themes and in a real message before completing your set.
 
@@ -31,7 +31,7 @@ Telegram states that anyone can create custom emoji, while adding and using cust
 
 - `icons/`: 13 transparent PNG icons.
 - `previews/contact-sheet.png`: a preview of the collection.
-- `dist/hermes-telegram-emoji.zip`: exactly the 13 numbered PNGs, without documents or source material.
+- `dist/hermes-telegram-emoji.zip`: exactly the 13 numbered PNGs, with no other files.
 - `manifest.json`: IDs, slugs, relative paths, SHA-256 hashes and proposed Unicode emoji mappings.
 
 No blanket licence to third-party artwork or marks is granted. This repository does not assert ownership of that material.
