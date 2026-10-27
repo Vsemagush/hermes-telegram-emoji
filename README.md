@@ -2,7 +2,7 @@
 
 An unofficial collection of Telegram custom emoji, inspired by Hermes / Nous and classical imagery. See [NOTICE.md](NOTICE.md).
 
-13 static PNG images, exactly 100 × 100 pixels, with transparent backgrounds. Stable IDs are **01–11, 13 and 15**; **12 and 14 are intentionally skipped**. The IDs are filenames for review and mapping, not Telegram custom emoji IDs.
+13 static PNG images, exactly 100 × 100 pixels, with transparent backgrounds.
 
 **[Add the emoji set in Telegram](https://t.me/addemoji/HermesCommunityIcons)**
 

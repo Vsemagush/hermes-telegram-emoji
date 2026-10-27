@@ -82,17 +82,17 @@
       "export_sha256": "ca1684e48a2fc2db5f3bcaf3517cc41d6662ce10db6710e901a6679d8efc6e5d"
     },
     {
-      "id": 13,
+      "id": 12,
       "slug": "medallion-gold",
       "proposed_emoji": "🏅",
-      "export": "icons/13-medallion-gold.png",
+      "export": "icons/12-medallion-gold.png",
       "export_sha256": "dbcb8b31db27c28bb4c2f040ae4045b60e162721614d8a9d0500e0114d76a3a6"
     },
     {
-      "id": 15,
+      "id": 13,
       "slug": "medallion-white",
       "proposed_emoji": "🏅",
-      "export": "icons/15-medallion-white.png",
+      "export": "icons/13-medallion-white.png",
       "export_sha256": "850e0ffb67b608b965933a4ecb82ca812f29b6f9e31fed47b688e740b5d4a405"
     }
   ]
