@@ -8,91 +8,91 @@
       "id": 1,
       "slug": "nous-girl-black",
       "proposed_emoji": "👩",
-      "file": "icons/01-nous-girl-black.png",
+      "file": "icons/png/01-nous-girl-black.png",
       "file_sha256": "d61f4263987cf833955b6c92fed5b0952062491a4528de243ef7e9af41c8ea8c"
     },
     {
       "id": 2,
       "slug": "nous-girl-white",
       "proposed_emoji": "👩",
-      "file": "icons/02-nous-girl-white.png",
+      "file": "icons/png/02-nous-girl-white.png",
       "file_sha256": "2516fc34bc2830ceb5ceed484b92a562b3329d15196e71a07e1556f85a3ec2c0"
     },
     {
       "id": 3,
       "slug": "nous-girl-close",
       "proposed_emoji": "🎧",
-      "file": "icons/03-nous-girl-close.png",
+      "file": "icons/png/03-nous-girl-close.png",
       "file_sha256": "5100af177efdcd4c3dc1cb334dd816cbe4316b8c86b2355f06655449cbe01dd3"
     },
     {
       "id": 4,
       "slug": "nous-girl-blue",
       "proposed_emoji": "🎧",
-      "file": "icons/04-nous-girl-blue.png",
+      "file": "icons/png/04-nous-girl-blue.png",
       "file_sha256": "ab867450ba40adacd9daacc662956148d1e75f9ec3a17d769c3546b4af915d9b"
     },
     {
       "id": 5,
       "slug": "wings-blue",
       "proposed_emoji": "🪽",
-      "file": "icons/05-wings-blue.png",
+      "file": "icons/png/05-wings-blue.png",
       "file_sha256": "a4aa1a1ff3fbe9389fd623ebc87a0391e34a5f162ab2328cec60eaa0efb6530b"
     },
     {
       "id": 6,
       "slug": "wings-black",
       "proposed_emoji": "🪽",
-      "file": "icons/06-wings-black.png",
+      "file": "icons/png/06-wings-black.png",
       "file_sha256": "47b27ca70a6680227f7a7955b5167f2e2a6ad203d9c81cd35e0caf7ac1f2698a"
     },
     {
       "id": 7,
       "slug": "caduceus-black",
       "proposed_emoji": "⚕️",
-      "file": "icons/07-caduceus-black.png",
+      "file": "icons/png/07-caduceus-black.png",
       "file_sha256": "f9772fa25bd444cfca009205fa4e021ca390cc0db0f6c7e6f8ba7277b533695a"
     },
     {
       "id": 8,
       "slug": "caduceus-white",
       "proposed_emoji": "⚕️",
-      "file": "icons/08-caduceus-white.png",
+      "file": "icons/png/08-caduceus-white.png",
       "file_sha256": "6453cafebe3101d584ded313de54ae2131d601538e985dfbfc1817df2781b0e1"
     },
     {
       "id": 9,
       "slug": "caduceus-blue",
       "proposed_emoji": "⚕️",
-      "file": "icons/09-caduceus-blue.png",
+      "file": "icons/png/09-caduceus-blue.png",
       "file_sha256": "73e15013fb42e57af38c8428040c751849b6becd486773446b42ba8099dd2526"
     },
     {
       "id": 10,
       "slug": "hermes-head-blue",
       "proposed_emoji": "🪽",
-      "file": "icons/10-hermes-head-blue.png",
+      "file": "icons/png/10-hermes-head-blue.png",
       "file_sha256": "953b1426ec4dc65ea874263199aea9b84a397791d7835fb48edff39087b21676"
     },
     {
       "id": 11,
       "slug": "hermes-head-black",
       "proposed_emoji": "🪽",
-      "file": "icons/11-hermes-head-black.png",
+      "file": "icons/png/11-hermes-head-black.png",
       "file_sha256": "ca1684e48a2fc2db5f3bcaf3517cc41d6662ce10db6710e901a6679d8efc6e5d"
     },
     {
       "id": 12,
       "slug": "medallion-gold",
       "proposed_emoji": "🏅",
-      "file": "icons/12-medallion-gold.png",
+      "file": "icons/png/12-medallion-gold.png",
       "file_sha256": "0c3f65b7d3424cefa98936fe20822da8fce286a87920cf368eb2ec7e332d0186"
     },
     {
       "id": 13,
       "slug": "medallion-white",
       "proposed_emoji": "🏅",
-      "file": "icons/13-medallion-white.png",
+      "file": "icons/png/13-medallion-white.png",
       "file_sha256": "dcc200baff132fcba657e65301bbc36ec884862ac375eae310fca71512b8cc1a"
     }
   ]

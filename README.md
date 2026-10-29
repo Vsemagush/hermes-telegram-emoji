@@ -40,9 +40,12 @@ This changes the shortcut icon, not the application's internal branding or execu
 
 ## Files
 
-- `icons/`: 13 transparent PNG icons.
+- `icons/png/`: 13 transparent PNG icons.
+- `icons/ico/`: 13 multi-size Windows ICO icons.
 - `previews/contact-sheet.png`: a preview of the collection.
 - `dist/hermes-telegram-emoji.zip`: exactly the 13 numbered PNGs, with no other files.
+- `dist/hermes-windows-icons.zip`: exactly the 13 numbered ICOs, with no other files.
 - `manifest.json`: IDs, slugs, relative paths, SHA-256 hashes and proposed Unicode emoji mappings.
+- `windows-manifest.json`: ICO paths, SHA-256 hashes and embedded sizes.
 
 No blanket licence to third-party artwork or marks is granted. This repository does not assert ownership of that material.
