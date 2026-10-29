@@ -27,6 +27,17 @@ The set is published as **Hermes [Community Icons]**. Open the link above to add
 
 Telegram states that anyone can create custom emoji, while adding and using custom sets generally requires Telegram Premium; free-emoji exceptions and account/client rules may apply. Check the current [official requirements](https://core.telegram.org/stickers#custom-emoji) and [custom emoji documentation](https://core.telegram.org/api/custom-emoji).
 
+## Windows shortcut icons
+
+[Download all 13 Windows ICOs](dist/hermes-windows-icons.zip?raw=true) · [ICO sizes and SHA-256 hashes](windows-manifest.json)
+
+Each ICO contains transparent 32-bit RGBA images at 16, 24, 32, 48, 64, 128 and 256 pixels, for modern Windows (Vista or later).
+
+1. Extract the ICO ZIP to a permanent folder; keep the files there after assigning an icon.
+2. Right-click a desktop shortcut, choose **Properties → Shortcut → Change Icon → Browse**, and select an `.ico` file. Confirm with **OK → Apply**. Labels may vary by Windows version.
+
+This changes the shortcut icon, not the application's internal branding or executable resources. Some shortcuts do not expose this option. Colours are fixed, not theme-adaptive: white or dark artwork can disappear against matching backgrounds. Choose a contrasting variant; small details soften at small sizes.
+
 ## Files
 
 - `icons/`: 13 transparent PNG icons.

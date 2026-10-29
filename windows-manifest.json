@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "item_count": 13,
+  "format": "ICO",
+  "frame_encoding": "PNG RGBA32",
+  "items": [
+    {
+      "id": 1,
+      "slug": "nous-girl-black",
+      "file": "icons/ico/01-nous-girl-black.ico",
+      "file_sha256": "284078c1125ebebc64a6644c26976c288d53fd6b3a02432f89c74dc6cf386c21",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 2,
+      "slug": "nous-girl-white",
+      "file": "icons/ico/02-nous-girl-white.ico",
+      "file_sha256": "8594d1e30c232b43dd03e310aac84097c3b0cc6db8838aca91df66168ba6be7e",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 3,
+      "slug": "nous-girl-close",
+      "file": "icons/ico/03-nous-girl-close.ico",
+      "file_sha256": "243a416e182e177278dc3598421d539470f1aff26b0b04dd8c71bc675e6d5637",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 4,
+      "slug": "nous-girl-blue",
+      "file": "icons/ico/04-nous-girl-blue.ico",
+      "file_sha256": "95fbc6e9668b766857bdf57719782c6b672dc25a96d8fe411923ea12587e9925",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 5,
+      "slug": "wings-blue",
+      "file": "icons/ico/05-wings-blue.ico",
+      "file_sha256": "86c6b2ba1d5129041bc189b0e93b373560ae2b945de66fd82cc1f8a0f192a074",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 6,
+      "slug": "wings-black",
+      "file": "icons/ico/06-wings-black.ico",
+      "file_sha256": "38b803d93e75e066b43c0a6e3b72e8fb3334d9d955c01fedc317dc3c3ec19b76",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 7,
+      "slug": "caduceus-black",
+      "file": "icons/ico/07-caduceus-black.ico",
+      "file_sha256": "2a1ffe33887ab2ccc2244e8aa99139bb90335fbaaaaaf44ec3220045accccd37",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 8,
+      "slug": "caduceus-white",
+      "file": "icons/ico/08-caduceus-white.ico",
+      "file_sha256": "eb8efc15e3b8741d79011c94e86c2917f02cbe2ec061bcd229e1557d745081cc",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 9,
+      "slug": "caduceus-blue",
+      "file": "icons/ico/09-caduceus-blue.ico",
+      "file_sha256": "fb9d3cf3645eceafafbb88c4cd51175c6b79039c0acd6af46f9b887d02f5968a",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 10,
+      "slug": "hermes-head-blue",
+      "file": "icons/ico/10-hermes-head-blue.ico",
+      "file_sha256": "e5f21c6185c5b6430db7862c3c37e7893540c8f49859e039594bdab852630a09",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 11,
+      "slug": "hermes-head-black",
+      "file": "icons/ico/11-hermes-head-black.ico",
+      "file_sha256": "e0a80c3b8b77e94b3df6b33db1c685db2605fca6f73a5a656b33b8130fb04afc",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 12,
+      "slug": "medallion-gold",
+      "file": "icons/ico/12-medallion-gold.ico",
+      "file_sha256": "41a3217b51f99e58af1bbdef2058d0d0d6d0802592fdd125035462063180bc71",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    },
+    {
+      "id": 13,
+      "slug": "medallion-white",
+      "file": "icons/ico/13-medallion-white.ico",
+      "file_sha256": "721c1d9c0b359d7301b2147726339a38671712d87063e53da99324958e460443",
+      "embedded_sizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "bit_depth": 32
+    }
+  ]
+}
