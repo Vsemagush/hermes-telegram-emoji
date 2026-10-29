@@ -6,7 +6,7 @@ An unofficial collection of Telegram custom emoji and Windows shortcut icons, in
 - **Telegram:** [Add Hermes Community Icons](https://t.me/addemoji/HermesCommunityIcons)
 
 ## Source
-- **ICO:** [Download all 13 ICOs](dist/hermes-windows-icons.zip?raw=true) and extract them to a permanent folder. Right-click a shortcut, open **Properties → Shortcut → Change Icon → Browse**, select an `.ico` file, then confirm with **OK → Apply**. Keep the ICO files in that folder. See [sizes and SHA-256 hashes](windows-manifest.json).
+- **ICO:** [Download all 13 ICOs](dist/hermes-windows-icons.zip?raw=true) and extract them to a permanent folder. Right-click a shortcut, open **Properties → Shortcut → Change Icon → Browse**, select an `.ico` file, then confirm with **OK → Apply**. Keep the ICO files in that folder.
 - **PNG:** [Download all 13 PNGs](dist/hermes-telegram-emoji.zip?raw=true) to create your own emoji set. See [Create your own set from the PNGs](#create-your-own-set-from-the-pngs) and the [proposed emoji mappings](manifest.json).
 
 ## Preview
